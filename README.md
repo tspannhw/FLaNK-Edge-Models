@@ -32,3 +32,29 @@ curl -X 'POST' \
 
 
 ````
+
+### CEM Outputs
+
+````
+{
+  "identifier": "d6065b20-e5fb-47c6-b736-c5a98b4cb58a",
+  "operation": "UPDATE",
+  "operand": "asset",
+  "args": {
+    "file": "a.jpg",
+    "relativeUrl": "/c2-protocol/asset/e670241f-ed98-4f4a-9443-77913a8f4215",
+    "forceDownload": "false",
+    "url": "/c2-protocol/asset/e670241f-ed98-4f4a-9443-77913a8f4215"
+  },
+  "targetAgentId": "e8892cfd-8580-4f5b-8324-3bb292407dfd",
+  "state": "DONE",
+  "details": "Successfully update asset",
+  "bulkOperationId": "60d3d647-4240-46eb-a3d8-a09fe0d6f3a8",
+  "createdBy": "unknown",
+  "created": 1691160676723,
+  "updated": 1691160690898
+}
+
+
+
+````
